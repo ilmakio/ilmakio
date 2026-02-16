@@ -39,7 +39,13 @@ I work across **design, motion graphics, video, post-production, 3D, animation, 
 
 ---
 
+## Other tools
 
+| Project | Description | Tech |
+|---------|-------------|------|
+| **[📄 Confluence Export Viewer](https://github.com/ilmakio/confluence-export-viewer)** | Convert Confluence Space XML exports to Markdown and browse them with a local web viewer. Converter + REST API + React viewer. | Python, React, TypeScript, Vite (Open Source) |
+
+---
 
 For the full picture — design, video, events, music, and everything else — see **[www.makio.app](https://www.makio.app)**.
 
