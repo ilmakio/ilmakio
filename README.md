@@ -11,7 +11,7 @@ I work across **design, motion graphics, video, post-production, 3D, animation, 
 | Project | Description | Tech |
 |---------|-------------|------|
 | **[🎮 Pokéos](https://www.pokeos.com)** | Full Pokémon platform: Pokédex, Team Builder, tracker, TCG, interactive map, Terastal simulator, guides, articles. Web + iOS/Android app. The most visited Italian Pokémon website. | React, TypeScript, Node.js, Elasticsearch, Capacitor |
-| **[🔐 PassStore](https://passstore.makio.app)** | A local-first secret manager for developers, built natively for macOS. | Swift, Xcode, OPEN SOURCE |
+| **[🔐 PassStore](https://passstore.makio.app)** | A local-first secret manager for developers, built natively for macOS. | Swift, Xcode (OPEN SOURCE) |
 | **[💾 Indexa](https://indexa.makio.app)** | Desktop app (Mac & Windows) to catalogue disks (internal/external) storing only metadata, never file contents. Offline-first. | Tauri, Rust, TypeScript |
 | **[🌱 Petalum](https://petalum.makio.app)** | Plant care app with AI and weather APIs; plus website and blog. | Swift, Xcode, WeatherKit, CloudKit, Next.js, TypeScript, Tailwind CSS |
 | **[💰 Skei](https://skei.pro)** | Personal finance app: accounts, transactions, recurring expenses, subscriptions. Analytics on spending, charts and insights. | React, TypeScript, Tailwind CSS, Node.js, MySQL |
@@ -44,7 +44,7 @@ I work across **design, motion graphics, video, post-production, 3D, animation, 
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| **[📄 Confluence Export Viewer](https://github.com/ilmakio/confluence-export-viewer)** | Convert Confluence Space XML exports to Markdown and browse them with a local web viewer. Converter + REST API + React viewer. | Python, React, TypeScript, Vite (Open Source) |
+| **[📄 Confluence Export Viewer](https://github.com/ilmakio/confluence-export-viewer)** | Convert Confluence Space XML exports to Markdown and browse them with a local web viewer. Converter + REST API + React viewer. | Python, React, TypeScript, Vite (OPEN SOURCE) |
 
 ---
 
